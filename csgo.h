@@ -1,6 +1,6 @@
 #pragma once
 #include <cstdint>
-//Coded by EthanEDITS#3257
+//Coded by GlmseBrazTr#8799
 //signatures
 constexpr ptrdiff_t dwClientState = 0x58CFC4;
 constexpr ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
