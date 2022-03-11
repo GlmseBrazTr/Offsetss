@@ -61,7 +61,7 @@ is_c4_owner = (0x3C8890)
 force_update_spectator_glow = (0x3BB80A)
 anim_overlays = (0x2990)
 m_flSpawnTime = (0x103C0)
-find_hud_element = (0x544F50F0)
+find_hud_element = (0x549150F0)
 
 #--------------------------
 #Netvars
