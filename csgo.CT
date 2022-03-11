@@ -1599,7 +1599,7 @@
 </SymbolEntry>
 <SymbolEntry>
 <Name>find_hud_element</Name>
-<Address>0x544F50F0</Address>
+<Address>0x549150F0</Address>
 </SymbolEntry>
 </UserdefinedSymbols>
 </CheatTable>
