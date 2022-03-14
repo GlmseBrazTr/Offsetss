@@ -1539,7 +1539,7 @@
 </SymbolEntry>
 <SymbolEntry>
 <Name>dwbSendPackets</Name>
-<Address>0xD9542</Address>
+<Address>0xD9572</Address>
 </SymbolEntry>
 <SymbolEntry>
 <Name>dwppDirect3DDevice9</Name>
@@ -1599,7 +1599,7 @@
 </SymbolEntry>
 <SymbolEntry>
 <Name>find_hud_element</Name>
-<Address>0x549150F0</Address>
+<Address>0x26B350F0</Address>
 </SymbolEntry>
 </UserdefinedSymbols>
 </CheatTable>
