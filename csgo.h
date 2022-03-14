@@ -44,7 +44,7 @@ constexpr ptrdiff_t dwWeaponTable = 0x5220F48;
 constexpr ptrdiff_t dwWeaponTableIndex = 0x326C;
 constexpr ptrdiff_t dwYawPtr = 0xDB8F48;
 constexpr ptrdiff_t dwZoomSensitivityRatioPtr = 0xDBF1B0;
-constexpr ptrdiff_t dwbSendPackets = 0xD9542;
+constexpr ptrdiff_t dwbSendPackets = 0xD9572;
 constexpr ptrdiff_t dwppDirect3DDevice9 = 0xA5050;
 constexpr ptrdiff_t m_pStudioHdr = 0x2950;
 constexpr ptrdiff_t m_yawClassPtr = 0xDB8F48;
@@ -59,7 +59,7 @@ constexpr ptrdiff_t is_c4_owner = 0x3C8890;
 constexpr ptrdiff_t force_update_spectator_glow = 0x3BB80A;
 constexpr ptrdiff_t anim_overlays = 0x2990;
 constexpr ptrdiff_t m_flSpawnTime = 0x103C0;
-constexpr ptrdiff_t find_hud_element = 0x549150F0;
+constexpr ptrdiff_t find_hud_element = 0x26B350F0;
 
 //netvars
 constexpr ptrdiff_t m_ArmorValue = 0x117CC;
