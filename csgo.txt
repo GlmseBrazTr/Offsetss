@@ -46,7 +46,7 @@ dwWeaponTable  0x5220F48
 dwWeaponTableIndex  0x326C
 dwYawPtr  0xDB8F48
 dwZoomSensitivityRatioPtr  0xDBF1B0
-dwbSendPackets  0xD9542
+dwbSendPackets  0xD9572
 dwppDirect3DDevice9  0xA5050
 m_pStudioHdr  0x2950
 m_yawClassPtr  0xDB8F48
@@ -61,7 +61,7 @@ is_c4_owner  0x3C8890
 force_update_spectator_glow  0x3BB80A
 anim_overlays  0x2990
 m_flSpawnTime  0x103C0
-find_hud_element  0x549150F0
+find_hud_element  0x26B350F0
 
 --------------------------
 Netvars
