@@ -57,7 +57,7 @@
    "m_yawClassPtr": 14389064,
    "model_ambient_min": 5832764,
    "set_abs_angles": 1987632,
-   "set_abs_origin": 1987184,
+   "set_abs_origin": 1987184
  },
  "netvars": {
    "cs_gamerules_data": 0,
@@ -125,7 +125,6 @@
    "m_iCrosshairId": 71736,
    "m_iDefaultFOV": 13116,
    "m_iEntityQuality": 12220,
-   "m_iFOV": 12788,
    "m_iFOVStart": 12792,
    "m_iGlowIndex": 66696,
    "m_iHealth": 256,
@@ -152,6 +151,6 @@
    "m_vecVelocity": 276,
    "m_vecViewOffset": 264,
    "m_viewPunchAngle": 12336,
-   "m_zoomLevel": 13280,
+   "m_zoomLevel": 13280
   }
 }
