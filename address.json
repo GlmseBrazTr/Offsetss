@@ -1,6 +1,6 @@
----
+{
 timestamp: 1647301792
-signatures:
+signatures: {
   anim_overlays: 10640
   clientstate_choked_commands: 19760
   clientstate_delta_ticks: 372
@@ -58,7 +58,8 @@ signatures:
   model_ambient_min: 5832764
   set_abs_angles: 1987632
   set_abs_origin: 1987184
-netvars:
+},
+"netvars": {
   cs_gamerules_data: 0
   m_ArmorValue: 71628
   m_Collision: 800
@@ -152,3 +153,5 @@ netvars:
   m_vecViewOffset: 264
   m_viewPunchAngle: 12336
   m_zoomLevel: 13280
+}
+}
