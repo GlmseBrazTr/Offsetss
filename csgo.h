@@ -1,6 +1,6 @@
 #pragma once
 #include <cstdint>
-//Coded by GlmseBrazTr#8799
+//Coded by EthanEDITS#3257
 //signatures
 constexpr ptrdiff_t dwClientState = 0x58CFC4;
 constexpr ptrdiff_t dwClientState_GetLocalPlayer = 0x180;
@@ -59,7 +59,7 @@ constexpr ptrdiff_t is_c4_owner = 0x3C8890;
 constexpr ptrdiff_t force_update_spectator_glow = 0x3BB80A;
 constexpr ptrdiff_t anim_overlays = 0x2990;
 constexpr ptrdiff_t m_flSpawnTime = 0x103C0;
-constexpr ptrdiff_t find_hud_element = 0x26B350F0;
+constexpr ptrdiff_t find_hud_element = 0x522750F0;
 
 //netvars
 constexpr ptrdiff_t m_ArmorValue = 0x117CC;
