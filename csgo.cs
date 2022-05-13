@@ -1,6 +1,6 @@
 using System;
 
-// 2022-05-13 00:14:02.004866 UTC
+// 2022-05-13 00:26:12.812588400 UTC
 
 namespace hazedumper
 {
@@ -111,7 +111,7 @@ namespace hazedumper
         public const Int32 dwClientState = 0x58CFC4;
         public const Int32 dwClientState_GetLocalPlayer = 0x180;
         public const Int32 dwClientState_IsHLTV = 0x4D48;
-        public const Int32 dwClientState_Map = 0x5DE58B5E;
+        public const Int32 dwClientState_Map = 0x28C;
         public const Int32 dwClientState_MapDirectory = 0x188;
         public const Int32 dwClientState_MaxPlayer = 0x388;
         public const Int32 dwClientState_PlayerInfo = 0x52C0;
@@ -147,7 +147,7 @@ namespace hazedumper
         public const Int32 dwZoomSensitivityRatioPtr = 0xDC31B0;
         public const Int32 dwbSendPackets = 0xD9722;
         public const Int32 dwppDirect3DDevice9 = 0xA5050;
-        public const Int32 find_hud_element = 0x51A25200;
+        public const Int32 find_hud_element = 0x51FB5200;
         public const Int32 force_update_spectator_glow = 0x3BB8FA;
         public const Int32 interface_engine_cvar = 0x3E9EC;
         public const Int32 is_c4_owner = 0x3C8970;
